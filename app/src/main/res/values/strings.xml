@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CarchaCatherineBhelLab2</string>
+    <string name="bambike_ecotours_intramuros1">Bambike Ecotours Intramuros</string>
+    <string name="location_real_street_corner_general_luna_street_plaza_san_luis_complex_intramuros_manila_luzon_1002_philippines2">Location: Real Street Corner General Luna Street Plaza San Luis Complex, Intramuros, Manila, Luzon 1002 Philippines</string>
+    <string name="distance_from_ust_3_7_km3">Distance From UST: 3.7 km</string>
+    <string name="todo1">TODO</string>
+    <string name="bambike_ecotours_intramuros2">Bambike Ecotours Intramuros</string>
+    <string name="distance_from_ust_3_7km1">Distance From UST: 3.7km</string>
+    <string name="location_real_street_corner_general_luna_street_plaza_san_luis_complex_intramuros_manila_luzon_1002_philippines1">Location: Real Street Corner General Luna Street Plaza San Luis Complex, Intramuros, Manila, Luzon 1002 Philippines</string>
+    <string name="todo2">TODO</string>
+    <string name="bambike_ecotours_intramuros3">Bambike Ecotours Intramuros</string>
+    <string name="location_real_street_corner_general_luna_street_plaza_san_luis_complex_intramuros_manila_luzon_1002_philippines3">Location: Real Street Corner General Luna Street Plaza San Luis Complex, Intramuros, Manila, Luzon 1002 Philippines</string>
+    <string name="distance_from_ust_3_7km3">Distance From UST: 3.7km</string>
+    <string name="todo3">TODO</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="back1">Back</string>
+    <string name="next1">Next</string>
+    <string name="back2">Back</string>
+    <string name="next2">Next</string>
+</resources>
